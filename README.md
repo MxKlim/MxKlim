@@ -33,4 +33,4 @@
 
 ## My stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MxKlim=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MxKlim&show_icons=true&theme=dark)
