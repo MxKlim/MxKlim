@@ -3,6 +3,7 @@
 ## I'm a beginner Front-End developer
 
 ## Languages and Tools
+
 ![HTML](https://img.shields.io/badge/-HTML-07090a?style=for-the-badge&logo=html5)
 ![CSS/SCSS](https://img.shields.io/badge/-CSS/SCSS-07090a?style=for-the-badge&logo=sass)
 ![javaScript](https://img.shields.io/badge/-javaScript-07090a?style=for-the-badge&logo=javaScript)
@@ -13,4 +14,9 @@
 ![figma](https://img.shields.io/badge/-figma-07090a?style=for-the-badge&logo=figma)
 ![typeScript](https://img.shields.io/badge/-typeScript-07090a?style=for-the-badge&logo=typeScript)
 ![react](https://img.shields.io/badge/-react-07090a?style=for-the-badge&logo=react)
-Follow Me
+
+## Follow Me
+
+[![telegram](https://img.shields.io/badge/-telegram-07090a?style=for-the-badge&logo=telegram)](https://t.me/maxsimklimenkov)
+[![linkedin](https://img.shields.io/badge/-linkedin-07090a?style=for-the-badge&logo=linkedin)]()
+[![vkontakte](https://img.shields.io/badge/-vkontakte-07090a?style=for-the-badge&logo=vk)](https://vk.com/id207841975)
