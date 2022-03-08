@@ -1,6 +1,7 @@
 [![Header](https://github.com/MxKlim/MxKlim/blob/main/assets/title.png)](https://t.me/maxsimklimenkov)
 
-## I'm a beginner Front-End developer. I am result oriented. I like to solve complex and extraordinary problems. Ready to learn new technologies. I am not conflicted, I easily find a common language with other people. My interests include web development, chemistry and biology. I want to develop in the field of web development.
+## About me
+ I'm a beginner Front-End developer. I am result oriented. I like to solve complex and extraordinary problems. Ready to learn new technologies. I am not conflicted, I easily find a common language with other people. My interests include web development, chemistry and biology. I want to develop in the field of web development.
 
 ## Languages and Tools
 
@@ -29,3 +30,7 @@
 [![Lingualeo](https://img.shields.io/badge/-Lingualeo-07090a?style=for-the-badge&logo=appveyor&logoColor=2a53b9)](https://2021q3-team404-rs-lang.netlify.app)
 [![christmas](https://img.shields.io/badge/-christmas-07090a?style=for-the-badge&logo=appveyor&logoColor=2752be)](https://rolling-scopes-school.github.io/mxklim-JSFE2021Q3/christmas)
 [![jehnyFit](https://img.shields.io/badge/-jehnyFit-07090a?style=for-the-badge&logo=appveyor&logoColor=2354d0)](https://mxklim.github.io/Jehny-Fit/)
+
+## My stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MxKlim=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
